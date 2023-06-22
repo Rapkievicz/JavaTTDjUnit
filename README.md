@@ -3,14 +3,16 @@ Project carried out in the content of the TDD and Java course: automated tests w
 
 Projeto realizado no conteúdo do curso TDD e Java: testes automatizados com JUnit da Alura
 
-##
+
+&nbsp;
 
 ## 🔨 Project features - Funcionalidades do projeto
 Application that simulates employee control, salary adjustments and bonus calculation
 
 Aplicação que simula um controle de funcionários, reajustes salariais e cálculo de bônus
 
-##
+
+&nbsp;
 
 ## ✔️ Techniques and technologies used - Técnicas e tecnologias utilizadas
 
