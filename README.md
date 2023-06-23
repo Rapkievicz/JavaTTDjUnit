@@ -25,4 +25,4 @@ Aplicação que simula um controle de funcionários, reajustes salariais e cálc
 
 
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80"/>
